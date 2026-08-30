@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Docking Inputs & Outputs
+ligands_ready/
+docking_results/
+targeted_docked_poses_cd80/
+targeted_docked_poses_cd86/
+
+# Ignore all PDB/PDBQT files EXCEPT your starting structures
+*.pdb
+*.pdbqt
+!CD86Cleaned1NCN.pdb
+!CD86Cleaned1NCN.pdbqt
+!CD80Cleaned1DR9.pdb
+!CD80Cleaned1DR9.pdbqt
+!HLA-DRB1_prepared.pdbqt
+
+# Checkpoints
+docking_checkpoint.pkl
+*.tmp_*

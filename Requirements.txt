@@ -1,0 +1,6 @@
+numpy
+biopython
+vina
+meeko
+rdkit
+pandas
