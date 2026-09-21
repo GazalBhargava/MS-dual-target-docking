@@ -44,7 +44,7 @@ class Config:
             "pdb": "CD86Cleaned1NCN.pdb",
             "pdbqt": "CD86Cleaned1NCN.pdbqt",
             "chain": "A",
-            "pocket_residues": [35, 37, 42, 43, 44, 47, 50, 52, 54, 80, 82, 85, 87],
+            "pocket_residues": [56, 58, 67, 69, 122],
             "box_size": [20.0, 20.0, 20.0],
             "poses_dir": "targeted_docked_poses_cd86",
         },
