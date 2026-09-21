@@ -66,21 +66,21 @@ The pipeline operates in two tightly coupled stages:
 
 ## 📊 Summary of Final Findings (Top 10 Candidates)
 
-| Rank | Candidate Ligand | HLA-DRB1 (kcal/mol) | CD86 (kcal/mol) | CD80 (kcal/mol) | Primary Mechanism / Profile |
-| :---: | :--- | :---: | :---: | :---: | :--- |
-| **1** | **NS-11021** | **-10.46\*** | -5.77 | -6.76 | Potent HLA-DRB1 primary binder |
-| **2** | **sb-218078** | **-10.19** | -6.04 | -7.28 | Chk1 kinase inhibitor |
-| **3** | **afoxolaner** | **-10.05** | -6.22 | -6.77 | GABA-gated chloride channel antagonist |
-| **4** | **CCG-63808** | -9.93 | -6.31 | -6.18 | RGS4 inhibitor |
-| **5** | **AMG900** | -9.90 | -6.41 | -7.09 | Pan-Aurora kinase inhibitor |
-| **6** | **deltarasin** | -9.89 | -6.10 | -6.55 | KRAS-PDEδ interaction inhibitor |
-| **7** | **oxytetracycline** | -9.81 | -5.16 | -6.04 | Broad-spectrum antibiotic |
-| **8** | **MK-4074** | -9.78 | -5.57 | -5.68 | Acetyl-CoA carboxylase inhibitor |
-| **9** | **MK-3207** | -9.76 | **-6.85\*** | **-8.08\*** | **Best overall co-stimulation blocker** |
-| **10**| **BT-11** | -9.75 | **-6.74** | **-7.93** | **Potent LANCL2 oral immunomodulator** |
-
-
-*\* Denotes highest affinity in column.*
+    ── Phase 1 ──  ── Phase 2 ──
+  Rank Candidate Ligand              HLA-DRB1            CD86            CD80
+  --------------------------------------------------------------------------
+  1    NS-11021                     -10.46*          -4.93           -6.81
+  2    sb-218078                    -10.19           -6.41           -7.27
+  3    afoxolaner                   -10.05           -5.96           -6.20
+  4    CCG-63808                     -9.93           -5.23           -6.21
+  5    AMG900                        -9.90           -5.98           -7.04
+  6    deltarasin                    -9.89           -4.53           -6.63
+  7    oxytetracycline               -9.81           -4.48           -6.05
+  8    MK-4074                       -9.78           -6.11           -5.91
+  9    MK-3207                       -9.76           -5.67           -8.01*
+  10   BT-11                         -9.75           -6.59*          -7.93
+  --------------------------------------------------------------------------
+                         Best       -10.46*          -6.59*          -8.01*
 
 ---
 
