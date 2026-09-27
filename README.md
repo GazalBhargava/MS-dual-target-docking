@@ -23,7 +23,7 @@ The pipeline operates in two tightly coupled stages:
 ┌─────────────────────────────────────────────────────────────────────┐
 │  PHASE 2: Targeted Interface Docking (Co-stimulatory Blockade)      │
 │  • Target 1: CD86 (PDB: CD86Cleaned1NCN.pdb)                       │
-│    Interface residues: [56, 58, 67, 69, 122 ]                             │
+│    Interface residues: [31,33,42,44,97 ]                             │
 │                                                                     │
 │  • Target 2: CD80 (PDB: CD80Cleaned1DR9.pdb)                       │
 │    Interface residues: [54, 56, 58, 62, 63, 64, 67, 69, 74, 77,     │
