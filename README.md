@@ -62,23 +62,25 @@ The pipeline operates in two tightly coupled stages:
 *(Note: Target receptors, ligand libraries, and output folders are generated locally during execution and are excluded from version control).*
 ---
 
-## 📊 Summary of Final Findings (Top 10 Candidates)
-
-    ── Phase 1 ──  ── Phase 2 ──
+BINDING AFFINITY SUMMARY — Top 10 Repurposing Candidates
+  All values in kcal/mol | * = best score in target column | Elapsed: 00:15:48
+============================================================================
+                                ── Phase 1 ──  ── Phase 2 ──
   Rank Candidate Ligand              HLA-DRB1            CD86            CD80
   --------------------------------------------------------------------------
-  1    NS-11021                     -10.46*          -4.93           -6.81
-  2    sb-218078                    -10.19           -6.41           -7.27
-  3    afoxolaner                   -10.05           -5.96           -6.20
-  4    CCG-63808                     -9.93           -5.23           -6.21
-  5    AMG900                        -9.90           -5.98           -7.04
-  6    deltarasin                    -9.89           -4.53           -6.63
-  7    oxytetracycline               -9.81           -4.48           -6.05
-  8    MK-4074                       -9.78           -6.11           -5.91
-  9    MK-3207                       -9.76           -5.67           -8.01*
-  10   BT-11                         -9.75           -6.59*          -7.93
+  1    NS-11021                     -10.46*          -6.51           -6.78
+  2    sb-218078                    -10.19           -6.82           -7.27
+  3    afoxolaner                   -10.05           -6.51           -6.79
+  4    CCG-63808                     -9.93           -6.32           -6.11
+  5    AMG900                        -9.90           -6.32           -7.01
+  6    deltarasin                    -9.89           -6.37           -6.60
+  7    oxytetracycline               -9.81           -5.33           -6.04
+  8    MK-4074                       -9.78           -6.85           -5.84
+  9    MK-3207                       -9.76           -6.86*          -8.01*
+  10   BT-11                         -9.75           -6.53           -7.91
   --------------------------------------------------------------------------
-                         Best       -10.46*          -6.59*          -8.01*
+                         Best       -10.46*          -6.86*          -8.01*
+============================================================================
 
 ---
 
