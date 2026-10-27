@@ -134,6 +134,14 @@ Carries over existing Top 10 candidates directly to interface docking:
 ```
 
 ---
-
 ## 📄 License & Attribution
-Designed for computational structural biology & drug repurposing workflows. AutoDock Vina is developed by the Center for Computational Structural Biology (CCSB) at Scripps Research.
+
+This project is released under the MIT License (see the LICENSE file) and is designed for computational structural biology and drug repurposing workflows.
+
+AutoDock Vina is developed by the Center for Computational Structural Biology (CCSB) at Scripps Research and has its own licence. If you use this pipeline, please cite:
+- Trott & Olson, J. Comput. Chem. 2010, 31, 455-461
+- Eberhardt et al., J. Chem. Inf. Model. 2021, 61, 3891-3898
+
+Other tools used: Meeko, RDKit, Biopython, NumPy and pandas.
+
+Docking scores are computational predictions and are not experimental evidence of activity.
